@@ -1,5 +1,5 @@
-BitLira (FOO)
+BitLira (BTL)
 ===========
 
 
-Scrypt Hashcash PoW Template
+Scrypt cryptocurrency that rocks!
