@@ -1,21 +1,20 @@
-Building bitLira
+Building BitLira
 
 Copyright (c) 2009-2012 Bitcoin Developers
 Copyright (c) 2011-2012 Litecoin Developers
 Copyright (c) 2014 Frozenbox Dev Team
 
-See doc/readme-qt.rst for instructions on building frozenboxcoin-qt,
+See doc/readme-qt.rst for instructions on building BitLira-qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of bitLira.
+implementation of BitLira.
 
-See doc/build-*.txt for instructions on building frozenboxcoin,
+See doc/build-*.txt for instructions on building BitLira,
 the intended-for-services, no-graphical-interface, reference
-implementation of bitLira.
+implementation of BitLira.
 
+***
 
-here it is a little tested sequence of commands that could be used to easily compile everything for Parrot Security OS and debian
-
-
+Here it is a little tested sequence of commands that could be used to easily compile everything for Debian and Parrot Security OS.
 
 apt-get install git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev qt4-qmake libqt4-dev
 mkdir devel
