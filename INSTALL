@@ -14,7 +14,7 @@ implementation of BitLira.
 
 ***
 
-Here it is a little tested sequence of commands that could be used to easily compile everything for Debian and Parrot Security OS.
+Here it is a little tested sequence of commands that could be used to easily compile everything for Debian and Parrot Security OS:
 
 apt-get install git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev qt4-qmake libqt4-dev
 mkdir devel
